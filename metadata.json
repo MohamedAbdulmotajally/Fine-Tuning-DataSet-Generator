@@ -1,0 +1,5 @@
+{
+  "name": "Fine-Tuning Dataset Generator",
+  "description": "Create a JSONL dataset from your RFPs and Proposals to fine-tune your own generative AI model.",
+  "requestFramePermissions": []
+}
